@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+/data/
+*.csv
+*.xlsx
+*.xls
+
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+/build/
+cmake-build-*/
+
+# MacOS system files
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
