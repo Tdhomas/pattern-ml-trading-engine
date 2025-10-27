@@ -53,5 +53,3 @@ Patterns are plotted directly on price charts, including bullish/bearish directi
 • Python: pandas, numpy, scikit-learn, yfinance, matplotlib, seaborn  
 • Jupyter Notebook for analysis and prototyping  
 • Excel outputs for pattern analytics tracking
-
-## Project Structure
